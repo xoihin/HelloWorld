@@ -13,6 +13,8 @@
 		F68C84941B55F099000EA83D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F68C84931B55F099000EA83D /* Images.xcassets */; };
 		F68C84971B55F099000EA83D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F68C84951B55F099000EA83D /* LaunchScreen.xib */; };
 		F68C84A31B55F099000EA83D /* HelloWorldTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F68C84A21B55F099000EA83D /* HelloWorldTests.swift */; };
+		F68C84AD1B55FAED000EA83D /* icon120.png in Resources */ = {isa = PBXBuildFile; fileRef = F68C84AC1B55FAED000EA83D /* icon120.png */; };
+		F68C84AF1B55FC9A000EA83D /* jNgy1b3MR0uJx7rysNNf_Rooftops by Igor Ovsyannykov.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F68C84AE1B55FC9A000EA83D /* jNgy1b3MR0uJx7rysNNf_Rooftops by Igor Ovsyannykov.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		F68C849C1B55F099000EA83D /* HelloWorldTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HelloWorldTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F68C84A11B55F099000EA83D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F68C84A21B55F099000EA83D /* HelloWorldTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloWorldTests.swift; sourceTree = "<group>"; };
+		F68C84AC1B55FAED000EA83D /* icon120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon120.png; sourceTree = "<group>"; };
+		F68C84AE1B55FC9A000EA83D /* jNgy1b3MR0uJx7rysNNf_Rooftops by Igor Ovsyannykov.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jNgy1b3MR0uJx7rysNNf_Rooftops by Igor Ovsyannykov.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,7 +84,9 @@
 				F68C848C1B55F099000EA83D /* AppDelegate.swift */,
 				F68C848E1B55F099000EA83D /* ViewController.swift */,
 				F68C84901B55F099000EA83D /* Main.storyboard */,
+				F68C84AE1B55FC9A000EA83D /* jNgy1b3MR0uJx7rysNNf_Rooftops by Igor Ovsyannykov.jpg */,
 				F68C84931B55F099000EA83D /* Images.xcassets */,
+				F68C84AC1B55FAED000EA83D /* icon120.png */,
 				F68C84951B55F099000EA83D /* LaunchScreen.xib */,
 				F68C848A1B55F099000EA83D /* Supporting Files */,
 			);
@@ -194,6 +200,8 @@
 			files = (
 				F68C84921B55F099000EA83D /* Main.storyboard in Resources */,
 				F68C84971B55F099000EA83D /* LaunchScreen.xib in Resources */,
+				F68C84AF1B55FC9A000EA83D /* jNgy1b3MR0uJx7rysNNf_Rooftops by Igor Ovsyannykov.jpg in Resources */,
+				F68C84AD1B55FAED000EA83D /* icon120.png in Resources */,
 				F68C84941B55F099000EA83D /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
